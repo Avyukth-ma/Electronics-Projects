@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.3*%
+%TF.CreationDate,2026-06-20T15:28:20+05:30*%
+%TF.ProjectId,Industrial Condition Monitoring Board,496e6475-7374-4726-9961-6c20436f6e64,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.3) date 2026-06-20 15:28:20*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X16500000Y-12000000D02*
+X90000000Y-12000000D01*
+X90000000Y-90000000D01*
+X16500000Y-90000000D01*
+X16500000Y-12000000D01*
+M02*
